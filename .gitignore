@@ -1,6 +1,7 @@
 /*IDE files*/
 vscode
 *.json
+Robin-zone.sln
 /*exe files*/
 bin/
 obj/
