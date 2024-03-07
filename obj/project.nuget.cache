@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXoZtpWEZWrbEV47OVd06YnmaUEJ3ABzv3Twl15mQm1jwnTweIq90y1dvoE8ssvah/XHjB/yhXw8pOer6kPY9g==",
+  "success": true,
+  "projectFilePath": "/home/hedgeg/projects/Robin-zone/Robin-zone.csproj",
+  "expectedPackageFiles": [
+    "/home/hedgeg/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
