@@ -1,6 +1,7 @@
-/*exe files*/
+#exe files
 bin/
 obj/
-/*old dir*/
+#old dir
 present-cont/
 past-proctinious/
+#something else
