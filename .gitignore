@@ -1,5 +1,9 @@
-.vscode/
+/*IDE files*/
+*vscode/
+*.json
+/*exe files*/
 bin/
 obj/
+/*old dir*/
 present-cont/
 past-proctinious/
